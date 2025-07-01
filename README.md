@@ -15,4 +15,4 @@ A simple and effective system to compress image files using python.This project 
 
 
 #  Author 
-created by @ARSALANnam (Echolyno)
+created by ARSALANnam (Echolyno)
